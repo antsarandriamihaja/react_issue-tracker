@@ -1,0 +1,52 @@
+body{
+    margin:0;
+    padding:0;
+    text-align: center
+}
+.userInput{
+    position: relative;
+   max-width: 600px;
+   border: 0.5px black solid;
+   border-radius: 5px;
+   margin: 0 auto;
+   margin-top: 10%;
+   padding: 5% ;
+   text-align: left;
+   display: block
+}
+ul{
+    padding: 0px
+}
+.Open{
+    background-color: green;
+}
+.Closed{
+    background-color: orange
+}
+.Low{
+max-width: 600px;
+   border: 0.5px green solid;
+   border-radius: 5px;
+   margin: 0 auto;
+   margin-top: 5%;
+   padding: 5% ;
+   text-align: left
+}
+.Medium{
+   max-width: 600px;
+   border: 0.5px orange solid;
+   border-radius: 5px;
+   margin: 0 auto;
+   margin-top: 5%;
+   padding: 5% ;
+   text-align: left
+}
+.Hard{
+max-width: 600px;
+   border: 0.5px red solid;
+   border-radius: 5px;
+   margin: 0 auto;
+   margin-top: 5%;
+   padding: 5% ;
+   text-align: left
+}
